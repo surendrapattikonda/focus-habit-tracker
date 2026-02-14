@@ -1,4 +1,4 @@
-const Activity = require('../models/Activity');
+const Activity = require('../models/activity.js');
 
 // @route   GET /api/analytics/weekly
 exports.getWeeklyAnalytics = async (req, res) => {
