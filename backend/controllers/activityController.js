@@ -1,4 +1,4 @@
-const Activity = require('../models/Activity');
+const Activity = require('../models/activity');
 
 // @route   POST /api/activities
 exports.createActivity = async (req, res) => {
