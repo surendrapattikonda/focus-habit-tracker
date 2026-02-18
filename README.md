@@ -9,7 +9,7 @@ A modern full-stack productivity application featuring real-time activity tracki
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-[Live Demo](https://your-app.vercel.app) 
+[Live Demo](https://focus-habit-tracker.vercel.app/login) 
 </div>
 
 ---
@@ -84,7 +84,7 @@ The goal was to build a coherent micro-product rather than isolated pages, focus
 
 2. **Setup Backend**
    ```bash
-   cd server
+   cd backend
    npm install
    ```
 
@@ -93,7 +93,6 @@ The goal was to build a coherent micro-product rather than isolated pages, focus
    PORT=5000
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_super_secret_key
-   NODE_ENV=development
    CLIENT_URL=http://localhost:5173
    ```
 
@@ -148,7 +147,7 @@ focus-tracker/
 │   ├── middleware/           # Auth, error handling
 │   ├── models/               # Mongoose models
 │   ├── routes/               # API routes
-│   ├── server.js             # Entry point
+│   ├── index.js             # Entry point
 │   └── package.json
 │
 └── README.md
