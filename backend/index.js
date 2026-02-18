@@ -17,8 +17,10 @@ connectDB();
 // Middleware
 app.use(helmet());
 app.use(cors({
-  origin: true,      // allow all origins
-  credentials: true
+  origin: [
+    'http://localhost:5173',
+    'https://focus-habit-tracker.vercel.app'
+  ]
 }));
 
 app.use(morgan('dev'));
