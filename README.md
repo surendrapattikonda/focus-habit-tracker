@@ -9,7 +9,7 @@ A modern full-stack productivity application featuring real-time activity tracki
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-[Live Demo](https://focus-habit-tracker.vercel.app/login) 
+[Live Demo](https://focus-habit-tracker.vercel.app/) 
 </div>
 
 ---
