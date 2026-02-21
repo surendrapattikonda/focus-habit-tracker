@@ -215,7 +215,7 @@ The analytics page features an interactive 3D bar chart built with Three.js:
 **Your Name**
 
 - GitHub: [@surendrapattikonda](https://github.com/surendrapattikonda)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/pattikondasurendra)
+- LinkedIn: [surendra](https://linkedin.com/in/pattikondasurendra)
 - Email: pattikondasurendra05@gmail.com
 
 ---
